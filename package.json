@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ProjectHSI/RichPresenceCustom/issues"
   },
-  "homepage": "https://github.com/ProjectHSI/RichPresenceCustom#readme"
+  "homepage": "https://github.com/ProjectHSI/RichPresenceCustom#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "moment": "^2.27.0",
+    "npmlog": "^4.1.2"
+  }
 }
